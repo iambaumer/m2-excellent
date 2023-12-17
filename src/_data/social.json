@@ -1,22 +1,27 @@
 [
   {
-    "platform": "github",
-    "url": "https://github.com/madrilene/eleventy-excellent",
-    "icon": "github.svg"
+    "platform": "facebook",
+    "url": "https://www.facebook.com/G3Lair",
+    "icon": "facebook.svg"
   },
   {
-    "platform": "mastodon",
-    "url": "https://front-end.social/@lene",
-    "icon": "mastodon.svg"
+    "platform": "twitch",
+    "url": "https://www.twitch.tv/godgamesandgeekery",
+    "icon": "twitch.svg"
   },
   {
-    "platform": "ko-fi",
-    "url": "https://ko-fi.com/lenesaile",
-    "icon": "kofi.svg"
+    "platform": "instagram",
+    "url": "https://www.instagram.com/godgamesgeekery/",
+    "icon": "instagram.svg"
   },
   {
-    "platform": "rss",
-    "url": "/feed.xml",
-    "icon": "rss.svg"
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@godgamesgeekery",
+    "icon": "tiktok.svg"
+  },
+  {
+    "platform": "podcast",
+    "url": "/",
+    "icon": "podcast.svg"
   }
 ]
