@@ -1,5 +1,27 @@
 # Eleventy Excellent
 
+## Development Plans
+
+### Site Design
+
+- [ ] Update fonts
+- [ ] Update colors
+
+### Posts
+
+- [ ] Post metadata:
+  - [ ] Spotify playlist
+  - [ ] Publish date
+  - [ ] Status (draft/published)
+- [ ] Include post image in previews (?)
+
+### Site-wide Functionality
+
+- [ ] How to integrate tags into posts, searching
+- [ ] Search functionality
+
+---
+
 Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [buildexcellentwebsit.es](https://buildexcellentwebsit.es/).
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/madrilene/eleventy-excellent?style=flat-square&logo=github&logoColor=white&label=GitHub%20stars)
@@ -8,6 +30,10 @@ Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [bu
 If you end up using this starter, feel free to send me a link, I'd love to see it!
 
 - [Eleventy Excellent](#eleventy-excellent)
+  - [Development Plans](#development-plans)
+    - [Site Design](#site-design)
+    - [Posts](#posts)
+    - [Site-wide Functionality](#site-wide-functionality)
   - [Preview](#preview)
   - [Features](#features)
   - [First steps](#first-steps)
