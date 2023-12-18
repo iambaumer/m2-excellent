@@ -72,6 +72,7 @@ nav.navbar a {
   text-decoration-color: var(--border-color, transparent);
   text-decoration-thickness: 3px;
   text-underline-offset: 0.3em;
+  font-family: var(--font-mono);
 }
 
 /* Change the border-color on :hover and :focus */

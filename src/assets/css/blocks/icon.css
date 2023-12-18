@@ -1,0 +1,4 @@
+.social-icon > svg {
+    color: var(--color-primary);
+    fill: var(--color-primary);
+}

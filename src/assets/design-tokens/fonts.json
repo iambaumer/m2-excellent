@@ -16,6 +16,11 @@
       "name": "Mono",
       "description": "Expressive sections, like quotes",
       "value": ["VT323", "RobotoMono", "monospace"]
+    },
+    {
+      "name": "Decoration",
+      "description": "Decoration",
+      "value": ["Cinzel Decorative", "Segoe UI"]
     }
   ]
 }

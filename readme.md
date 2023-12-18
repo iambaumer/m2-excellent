@@ -4,8 +4,10 @@
 
 ### Site Design
 
-- [ ] Update fonts
+- [X] Update fonts
 - [ ] Update colors
+- [ ] Add images/icons/logos
+- [X] *FIX*: social icon coloring (footer)
 
 ### Posts
 
@@ -14,10 +16,13 @@
   - [ ] Publish date
   - [ ] Status (draft/published)
 - [ ] Include post image in previews (?)
+- [ ] Add next/previous navigation to bottom of post
+- [X] Paginated list of posts
 
 ### Site-wide Functionality
 
-- [ ] How to integrate tags into posts, searching
+- [X] How to integrate tags into posts
+  - *NOTE - functionality available in [branch](https://github.com/madrilene/eleventy-excellent/tree/demo-tags/src)
 - [ ] Search functionality
 
 ---

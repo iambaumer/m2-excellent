@@ -6,7 +6,15 @@ module.exports = {
     },
     {
       text: 'Blog',
-      url: '/blog/'
+      url: '/blog/page-0/'
+    },
+    {
+      text: 'Tags',
+      url: '/tags/'
+    },
+    {
+      text: 'Schedule',
+      url: '/schedule/'
     }
   ],
   bottom: [
