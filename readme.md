@@ -1,6 +1,6 @@
 # Eleventy Excellent
 
-## Development Plans
+## Development Plans - Music and the Message
 
 ### Site Design
 
@@ -8,6 +8,9 @@
 - [ ] Update colors
 - [ ] Add images/icons/logos
 - [X] *FIX*: social icon coloring (footer)
+- [ ] How to style admonitions
+- [ ] Change table styling (schedule page)
+- [ ] Adjust post tag styling
 
 ### Posts
 
@@ -35,7 +38,7 @@ Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [bu
 If you end up using this starter, feel free to send me a link, I'd love to see it!
 
 - [Eleventy Excellent](#eleventy-excellent)
-  - [Development Plans](#development-plans)
+  - [Development Plans - Music and the Message](#development-plans---music-and-the-message)
     - [Site Design](#site-design)
     - [Posts](#posts)
     - [Site-wide Functionality](#site-wide-functionality)
